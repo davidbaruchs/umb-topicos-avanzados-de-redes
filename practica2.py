@@ -121,4 +121,4 @@ if __name__ == "__main__":
 
     graficas(data)
 
-    simulacion_tiempo_real(modelo, iteraciones=10)
+   simulacion_tiempo_real(modelo, iteraciones=10)
